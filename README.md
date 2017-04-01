@@ -1,2 +1,2 @@
-# my-dl
-deep learning materials
+# My-DL
+My deep learning materials
