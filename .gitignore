@@ -1,5 +1,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 debug.log
+
+# large compressed files
 *.zip
 *.pickle
+*.gz
