@@ -6,3 +6,7 @@ debug.log
 *.zip
 *.pickle
 *.gz
+
+# saved model, variable files
+checkpoint
+*ckpt*
