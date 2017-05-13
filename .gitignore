@@ -6,7 +6,13 @@ debug.log
 *.zip
 *.pickle
 *.gz
+__pycache__
+*.p
+*cifar*
 
 # saved model, variable files
 checkpoint
 *ckpt*
+
+# floyd related
+.floydexpt
